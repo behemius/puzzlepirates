@@ -5,9 +5,9 @@ from mss import mss
 
 # Twoje dopasowane współrzędne planszy bilgingu
 monitor_area = {
-    "left": 193,
-    "top": 145,
-    "width": 541,
+    "left": 190,
+    "top": 200,
+    "width": 547,
     "height": 1083
 }
 
